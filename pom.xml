@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>SpringBoot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>devopsautomation</artifactId>
+	<version>1.0</version>
 	<name>SpringBoot</name>
 	<description>Springboot demo</description>
 	<url/>
@@ -73,7 +73,7 @@
 					</annotationProcessorPaths>
 				</configuration>
 			</plugin>
-			
 		</plugins>
+		<finalName>devopsautomation.jar</finalName>		
 	</build>
 </project>
